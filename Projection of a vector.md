@@ -1,0 +1,13 @@
+# Intuition:
+- Can be thought of as a shadow on another vector $\vec{a}$. 
+- The vector $\vec{a}$ is below the vector, $\vec{v}$, and has a shadow of the vector on it. 
+- If the two vectors are perpendicular to each other then there is no shadow. They are totally different. Knowing one tells us nothing about the other. 
+- But if they are not perpendicular, the shadow/projection of $\vec{v}$ on $\vec{a}$ does not tell us all the information about $\vec{v}$  
+- In fact some of it is lost when projected on the other vector. 
+- The rest of the information is projected to the vector that is orthogonal to $\vec{a}$.
+- $\vec{a}$ captures all the necessary information about $\vec{v}$ in that direction, but what is left can only be projected at the perpendicular direction. 
+- So the vector $\vec{v}$ can therefore be decomposed into two vectors. 
+- Say $\vec{a}$ is a unit vector, then the projection of $\vec{v}$ on $\vec{a}$ **scales** the vector $\vec{a}$.
+- The magnitude of scaling tells us how much aligned/close $\vec{v}$ and $\vec{a}$ are.
+- Intuition: If the vectors have a larger angle between them, then the shadow of $\vec{v}$ on $\vec{a}$ is shorter.
+- The alignment is given by the dot product between $\vec{v}$ and $\vec{a}$.
