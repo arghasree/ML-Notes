@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "64312c4377f3779b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7de52f8a6b36aedd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6341907d9331d76f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "3fa3ba2d25d688f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Posterior Collapse in VAEs.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Posterior Collapse in VAEs"
+            }
+          },
+          {
+            "id": "f35cc5e78c414686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Class"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0d246f6dae9d6a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c0f630a93ab812d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a749b5505fcc0bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "37990c4345ed63f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "681cd89da0badc1c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f20bbe1bc518e02a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec49624226e15d20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd8e5a95f9a4bad5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Singular Matrices.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Singular Matrices"
+            }
+          },
+          {
+            "id": "dbcff3412d4f19c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3ac27e29737335c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b86ccd4dea1fd26e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Nerfs.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Nerfs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3fa3ba2d25d688f0",
+  "lastOpenFiles": [
+    "Connection between classification and encoder of VAEs.md",
+    "Posterior Collapse in VAEs.md",
+    "PCA vs PPCA.md",
+    "Orthonormal Matrices.md",
+    "PPCA.md",
+    "EM Algorithm.md",
+    "Bayes' Rule.md",
+    "Matrix Inverse.md",
+    "Link between generation and prediction.md",
+    "Covariance matrix of some matrix.md",
+    "Rectangular Matrices.md",
+    "Determinants.md",
+    "Pasted image 20250313130133.png",
+    "Rank.md",
+    "Singular Matrices.md",
+    "MLE and relationship between Random Variables.md",
+    "OLS Solution.md",
+    "Condition.md",
+    "Welcome.md",
+    "Class.md",
+    "Determinant.md",
+    "Difference between RVs and Events.md",
+    "Probability and relationships between RVs.md",
+    "Loss Landscape.md",
+    "Using MLE can we decide if one random variable has an effect on another random variable? Are there other methods that do that?.md",
+    "Nerfs.md",
+    "Pasted image 20250219162420.png",
+    "Pasted image 20250219162319.png",
+    "Pasted image 20250219150714.png",
+    "Pasted image 20250219150652.png"
+  ]
+}

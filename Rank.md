@@ -1,0 +1,1 @@
+If a low rank matrix is multiplied with another matrix, then the resulting matrix will also be low rank. 
