@@ -28,6 +28,7 @@ EM Algorithm is used in conditions where (1) the data comes from **different dis
 - In other words, the MLE step depends on which distribution is belongs to. If we assume/ the likelihood of $x_i$ belonging to distribution 1 is lower, then the updates (for the parameters of distribution 1) will be reduced. 
 
 ## Why is EM iterative?
+TO DO 
 
 ## Intuition for the E-step 
 - Each data point has a membership to each distribution. 
